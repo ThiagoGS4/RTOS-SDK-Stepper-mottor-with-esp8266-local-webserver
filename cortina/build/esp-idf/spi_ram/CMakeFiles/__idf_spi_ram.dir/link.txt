@@ -1,0 +1,2 @@
+C:\esp\xtensa-lx106-elf\bin\xtensa-lx106-elf-ar.exe qc libspi_ram.a CMakeFiles/__idf_spi_ram.dir/spi_ram.c.obj CMakeFiles/__idf_spi_ram.dir/spi_ram_fifo.c.obj
+C:\esp\xtensa-lx106-elf\bin\xtensa-lx106-elf-ranlib.exe libspi_ram.a

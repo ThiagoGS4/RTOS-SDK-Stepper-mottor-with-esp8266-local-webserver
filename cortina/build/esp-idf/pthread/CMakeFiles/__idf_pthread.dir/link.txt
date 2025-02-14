@@ -1,0 +1,2 @@
+C:\esp\xtensa-lx106-elf\bin\xtensa-lx106-elf-ar.exe qc libpthread.a CMakeFiles/__idf_pthread.dir/pthread.c.obj CMakeFiles/__idf_pthread.dir/pthread_cond_var.c.obj CMakeFiles/__idf_pthread.dir/pthread_local_storage.c.obj
+C:\esp\xtensa-lx106-elf\bin\xtensa-lx106-elf-ranlib.exe libpthread.a

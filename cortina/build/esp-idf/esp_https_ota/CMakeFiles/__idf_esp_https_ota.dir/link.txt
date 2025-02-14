@@ -1,0 +1,2 @@
+C:\esp\xtensa-lx106-elf\bin\xtensa-lx106-elf-ar.exe qc libesp_https_ota.a CMakeFiles/__idf_esp_https_ota.dir/src/esp_https_ota.c.obj
+C:\esp\xtensa-lx106-elf\bin\xtensa-lx106-elf-ranlib.exe libesp_https_ota.a

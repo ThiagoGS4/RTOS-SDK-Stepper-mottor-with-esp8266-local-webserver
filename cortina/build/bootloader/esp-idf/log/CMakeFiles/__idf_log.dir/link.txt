@@ -1,0 +1,2 @@
+C:\esp\xtensa-lx106-elf\bin\xtensa-lx106-elf-ar.exe qc liblog.a CMakeFiles/__idf_log.dir/log.c.obj
+C:\esp\xtensa-lx106-elf\bin\xtensa-lx106-elf-ranlib.exe liblog.a

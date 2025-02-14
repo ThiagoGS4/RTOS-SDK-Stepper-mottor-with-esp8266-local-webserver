@@ -1,0 +1,2 @@
+C:\esp\xtensa-lx106-elf\bin\xtensa-lx106-elf-ar.exe qc libesp_ringbuf.a CMakeFiles/__idf_esp_ringbuf.dir/ringbuf.c.obj
+C:\esp\xtensa-lx106-elf\bin\xtensa-lx106-elf-ranlib.exe libesp_ringbuf.a

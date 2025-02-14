@@ -1,0 +1,2 @@
+C:\esp\xtensa-lx106-elf\bin\xtensa-lx106-elf-ar.exe qc libheap.a CMakeFiles/__idf_heap.dir/src/esp_heap_caps.c.obj CMakeFiles/__idf_heap.dir/src/esp_heap_trace.c.obj CMakeFiles/__idf_heap.dir/port/esp8266/esp_heap_init.c.obj
+C:\esp\xtensa-lx106-elf\bin\xtensa-lx106-elf-ranlib.exe libheap.a

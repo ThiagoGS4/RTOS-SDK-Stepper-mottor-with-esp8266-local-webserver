@@ -1,0 +1,25 @@
+esp-idf/esp8266/CMakeFiles/__idf_esp8266.dir/source/rom.c.obj: \
+ C:\esp\ESP8266_RTOS_SDK\components\esp8266\source\rom.c \
+ C:\esp\ESP8266_RTOS_SDK\components\esp8266\include/rom/uart.h \
+ C:\esp\ESP8266_RTOS_SDK\components\esp8266\include/esp_types.h \
+ c:\esp\xtensa-lx106-elf\xtensa-lx106-elf\sys-include\sys\cdefs.h \
+ c:\esp\xtensa-lx106-elf\xtensa-lx106-elf\sys-include\machine\_default_types.h \
+ c:\esp\xtensa-lx106-elf\xtensa-lx106-elf\sys-include\sys\features.h \
+ c:\esp\xtensa-lx106-elf\xtensa-lx106-elf\sys-include\_newlib_version.h \
+ c:\esp\xtensa-lx106-elf\lib\gcc\xtensa-lx106-elf\8.4.0\include\stddef.h \
+ c:\esp\xtensa-lx106-elf\lib\gcc\xtensa-lx106-elf\8.4.0\include\stdint.h \
+ c:\esp\xtensa-lx106-elf\xtensa-lx106-elf\sys-include\stdint.h \
+ c:\esp\xtensa-lx106-elf\xtensa-lx106-elf\sys-include\sys\_intsup.h \
+ c:\esp\xtensa-lx106-elf\xtensa-lx106-elf\sys-include\sys\_stdint.h \
+ c:\esp\xtensa-lx106-elf\lib\gcc\xtensa-lx106-elf\8.4.0\include\stdbool.h \
+ C:\esp\ESP8266_RTOS_SDK\components\esp8266\include/esp_attr.h \
+ C:\esp\ESP8266_RTOS_SDK\components\esp8266\include/rom/ets_sys.h \
+ C:\esp\ESP8266_RTOS_SDK\components\esp8266\include/esp8266/eagle_soc.h \
+ C:\Users\Pichau\Documents\esp8266\cortina\build\config/sdkconfig.h \
+ C:\esp\ESP8266_RTOS_SDK\components\esp8266\include/driver/soc.h \
+ C:\esp\ESP8266_RTOS_SDK\components\esp8266\include/esp8266/uart_struct.h \
+ C:\esp\ESP8266_RTOS_SDK\components\esp8266\include/esp8266/uart_register.h \
+ C:\esp\ESP8266_RTOS_SDK\components\esp8266\include/esp8266/pin_mux_register.h \
+ C:\esp\ESP8266_RTOS_SDK\components\esp8266\include/esp8266/eagle_soc.h \
+ C:\esp\ESP8266_RTOS_SDK\components\esp8266\include/esp8266/rom_functions.h \
+ c:\esp\xtensa-lx106-elf\lib\gcc\xtensa-lx106-elf\8.4.0\include\stdarg.h

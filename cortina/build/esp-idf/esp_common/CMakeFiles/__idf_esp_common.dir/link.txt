@@ -1,0 +1,2 @@
+C:\esp\xtensa-lx106-elf\bin\xtensa-lx106-elf-ar.exe qc libesp_common.a CMakeFiles/__idf_esp_common.dir/src/stack_check.c.obj CMakeFiles/__idf_esp_common.dir/src/esp_err_to_name.c.obj
+C:\esp\xtensa-lx106-elf\bin\xtensa-lx106-elf-ranlib.exe libesp_common.a

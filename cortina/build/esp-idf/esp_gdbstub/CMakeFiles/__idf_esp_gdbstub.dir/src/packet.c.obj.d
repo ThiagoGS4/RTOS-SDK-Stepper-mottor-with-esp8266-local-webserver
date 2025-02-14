@@ -1,0 +1,25 @@
+esp-idf/esp_gdbstub/CMakeFiles/__idf_esp_gdbstub.dir/src/packet.c.obj: \
+ C:\esp\ESP8266_RTOS_SDK\components\esp_gdbstub\src\packet.c \
+ C:\esp\ESP8266_RTOS_SDK\components\esp_gdbstub\private_include/esp_gdbstub_common.h \
+ c:\esp\xtensa-lx106-elf\lib\gcc\xtensa-lx106-elf\8.4.0\include\stdint.h \
+ c:\esp\xtensa-lx106-elf\xtensa-lx106-elf\sys-include\stdint.h \
+ c:\esp\xtensa-lx106-elf\xtensa-lx106-elf\sys-include\machine\_default_types.h \
+ c:\esp\xtensa-lx106-elf\xtensa-lx106-elf\sys-include\sys\features.h \
+ c:\esp\xtensa-lx106-elf\xtensa-lx106-elf\sys-include\_newlib_version.h \
+ c:\esp\xtensa-lx106-elf\xtensa-lx106-elf\sys-include\sys\_intsup.h \
+ c:\esp\xtensa-lx106-elf\xtensa-lx106-elf\sys-include\sys\_stdint.h \
+ c:\esp\xtensa-lx106-elf\lib\gcc\xtensa-lx106-elf\8.4.0\include\stddef.h \
+ c:\esp\xtensa-lx106-elf\lib\gcc\xtensa-lx106-elf\8.4.0\include\stdbool.h \
+ C:\esp\ESP8266_RTOS_SDK\components\esp_gdbstub\include/esp_gdbstub.h \
+ C:\esp\ESP8266_RTOS_SDK\components\esp_gdbstub\xtensa/esp_gdbstub_arch.h \
+ C:\esp\ESP8266_RTOS_SDK\components\freertos\port\esp8266\include/freertos/xtensa_context.h \
+ C:\esp\ESP8266_RTOS_SDK\components\esp8266\include/xtensa/config/tie.h \
+ C:\esp\ESP8266_RTOS_SDK\components\esp8266\include/xtensa/corebits.h \
+ C:\esp\ESP8266_RTOS_SDK\components\esp8266\include/xtensa/config/system.h \
+ C:\esp\ESP8266_RTOS_SDK\components\esp8266\include/xtensa/xtruntime-frames.h \
+ C:\esp\ESP8266_RTOS_SDK\components\esp8266\include/xtensa/config/core.h \
+ C:\esp\ESP8266_RTOS_SDK\components\esp8266\include/xtensa/hal.h \
+ C:\esp\ESP8266_RTOS_SDK\components\esp8266\include/xtensa/config/core-isa.h \
+ C:\esp\ESP8266_RTOS_SDK\components\esp8266\include/xtensa/config/core-matmap.h \
+ C:\esp\ESP8266_RTOS_SDK\components\esp_gdbstub\esp8266/gdbstub_target_config.h \
+ C:\Users\Pichau\Documents\esp8266\cortina\build\config/sdkconfig.h

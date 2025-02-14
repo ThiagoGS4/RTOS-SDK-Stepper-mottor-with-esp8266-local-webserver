@@ -1,0 +1,2 @@
+C:\esp\xtensa-lx106-elf\bin\xtensa-lx106-elf-ar.exe qc libprotobuf-c.a "CMakeFiles/__idf_protobuf-c.dir/protobuf-c/protobuf-c/protobuf-c.c.obj"
+C:\esp\xtensa-lx106-elf\bin\xtensa-lx106-elf-ranlib.exe libprotobuf-c.a

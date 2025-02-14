@@ -1,0 +1,2 @@
+C:\esp\xtensa-lx106-elf\bin\xtensa-lx106-elf-ar.exe qc libesp8266.a CMakeFiles/__idf_esp8266.dir/source/ets_printf.c.obj CMakeFiles/__idf_esp8266.dir/source/crc.c.obj CMakeFiles/__idf_esp8266.dir/source/esp_fast_boot.c.obj
+C:\esp\xtensa-lx106-elf\bin\xtensa-lx106-elf-ranlib.exe libesp8266.a

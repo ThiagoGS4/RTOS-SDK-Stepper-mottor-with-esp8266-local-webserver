@@ -1,0 +1,2 @@
+C:\esp\xtensa-lx106-elf\bin\xtensa-lx106-elf-ar.exe qc libtcp_transport.a CMakeFiles/__idf_tcp_transport.dir/transport.c.obj CMakeFiles/__idf_tcp_transport.dir/transport_ssl.c.obj CMakeFiles/__idf_tcp_transport.dir/transport_tcp.c.obj CMakeFiles/__idf_tcp_transport.dir/transport_ws.c.obj CMakeFiles/__idf_tcp_transport.dir/transport_utils.c.obj
+C:\esp\xtensa-lx106-elf\bin\xtensa-lx106-elf-ranlib.exe libtcp_transport.a
