@@ -8,7 +8,7 @@ Para usar:
  - Altere o SSID e SENHA para a do seu WiFi
  - Altere o número de passos para o desejado
  - Navegue até a pasta "cortina" com o comando cd no terminal da sua máquina
- - Caso seu RTOS-SDK estiver condigurado corretamente digite **idf.py build**
+ - Caso seu RTOS-SDK estiver configurado corretamente digite **idf.py build**
  - Depois de compilar digite **idf.py flash** para mandar para seu esp8266 por flashing
  - Após terminar o envio por flashing digite **idf.py monitor***
  - Será exibido o ip do esp8266, copie e cole no navegador
