@@ -10,6 +10,6 @@ Para usar:
  - Navegue até a pasta "cortina" com o comando cd no terminal da sua máquina
  - Caso seu RTOS-SDK estiver configurado corretamente digite **idf.py build**
  - Depois de compilar digite **idf.py flash** para mandar para seu esp8266 por flashing
- - Após terminar o envio por flashing digite **idf.py monitor***
+ - Após terminar o envio por flashing digite **idf.py monitor**
  - Será exibido o ip do esp8266, copie e cole no navegador
  - Para executar os comando abrir ou fechar apenas adicione \abrir ou \fechar após o ip no navegador
